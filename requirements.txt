@@ -1,0 +1,13 @@
+# API framework
+fastapi==0.162.0
+uvicorn==0.54.0
+
+# Machine Learning
+scikit-learn==1.6.1
+numpy
+pandas
+scipy
+joblib
+
+# Data validation
+pydantic==2.14.3
